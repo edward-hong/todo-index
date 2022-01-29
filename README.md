@@ -4,3 +4,4 @@ To demonstrate basic proficiency with various tech stacks, I've created various 
 
 - [MERN](https://github.com/edward-hong/mern-todo)
 - [Svelte-Koa](https://github.com/edward-hong/todo-svelte-koa)
+- [Vue-Hapi](https://github.com/edward-hong/todo-vue-hapi)
